@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormularioInscripción</string>
+    <string name="ingresa_tu_apellido">Ingresa tu Apellido</string>
+    <string name="ingresa_tu_edad">Ingresa tu Edad</string>
+    <string name="ingresa_tu_correo">Ingresa tu Correo</string>
+    <string name="ingresa_tu_nombre">Ingresa tu Nombre</string>
+    <string name="btnAceptar">Registrarme Ahora</string>
+    <string name="btnOk">Salir</string>
+</resources>
